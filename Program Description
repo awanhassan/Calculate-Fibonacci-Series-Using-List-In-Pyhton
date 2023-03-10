@@ -1,0 +1,5 @@
+In this program, we first define a function called fibonacci that takes an integer n as its argument. 
+We initialize the first two terms of the series to be 1 and 1, and we create a list called fib_list to store the series.
+We then use a for loop to generate subsequent terms of the series. 
+Each term is the sum of the previous two terms, which we access using list indexing. We append each new term to the end of the fib list.
+Finally, we return the fib list from the function. In the example usage, we call the fibonacci function with an and arugument that takes the value from the user and print the resulting list.
